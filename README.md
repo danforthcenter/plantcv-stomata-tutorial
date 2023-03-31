@@ -7,7 +7,7 @@ An introduction to analyzing microscopy images of stomata with PlantCV.
 Read in image taken with any kind of camera or brightfield microscope and analyze for number of stomata, stomatal aperture, width, length, and more properties. 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-stomata-tutorial/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-stomata-tutorial/HEAD?labpath=index.ipynb)
 
 ## Tutorial tags/keywords
 
