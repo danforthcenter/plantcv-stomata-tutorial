@@ -1,5 +1,7 @@
 # PlantCV Stomata Image Analysis Tutorial
 
+[![test-pr](https://github.com/danforthcenter/plantcv-stomata-tutorial/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-stomata-tutorial/actions/workflows/ci-tests.yml)
+
 An introduction to analyzing microscopy images of stomata with PlantCV.
 
 # Stomata Workflow
