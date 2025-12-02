@@ -11,12 +11,10 @@ Read in image taken with any kind of camera or brightfield microscope and analyz
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-stomata-tutorial/HEAD?labpath=index.ipynb)
 
-[![Static Badge](https://img.shields.io/badge/Open%20in%20GitHub-black?logo=github)](https://github.com/danforthcenter/plantcv-stomata-tutorial)
-
 ## Tutorial tags/keywords
 
 stomata, microscopy, count, aperture, conductance, interactive, click
 
 ## Citations
 
-Optional.
+Coming soon. 
